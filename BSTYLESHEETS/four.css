@@ -1,0 +1,7 @@
+.custom-rounded-border {
+ border: 2px solid white;
+ border-radius:  5px;
+}
+.footer {
+    text-align-last: center;
+}

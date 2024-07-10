@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+}
+h1,h2,h3 {
+    color: forestgreen;
+}
+p {
+    color: #000;
+}
+.nav li {
+    list-style: none;
+    
+}
+li {
+    border: 5px solid rgb(91, 79, 79);
+    padding: auto;
+    margin: 2px;
+    background-color: rgb(91, 79, 79);
+    border-radius: 0%;
+    display: inline;
+}
+li a 
+{
+    color: white;
+}
+.Side-Bar {
+    border: 5px solid lightgrey ;
+    background-color: lightslategrey;
+    
+}
+.Side-Bar > p{
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer {
+    text-align-last: center;
+
+}
